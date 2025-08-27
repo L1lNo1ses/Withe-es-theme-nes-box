@@ -1,0 +1,27 @@
+<translations>
+  <!-- Menü és vezérlés -->
+  <string name="LAUNCH SCREENSAVER" value="Képernyővédő indítása"/>
+  <string name="MENU" value="Menü"/>
+  <string name="SEARCH" value="Keresés"/>
+  <string name="RANDOM" value="Véletlen"/>
+  <string name="SELECT" value="Kiválaszt"/>
+  <string name="BACK" value="Vissza"/>
+  <string name="OPTIONS" value="Beállítások"/>
+  <string name="SETTINGS" value="Rendszerbeállítások"/>
+  <string name="QUIT" value="Kilépés"/>
+  <string name="YES" value="Igen"/>
+  <string name="NO" value="Nem"/>
+
+  <!-- Játéklista -->
+  <string name="GAMES AVAILABLE" value="Elérhető játékok"/>
+  <string name="NO GAMES FOUND" value="Nincs játék"/>
+  <string name="FAVORITES" value="Kedvencek"/>
+  <string name="LAST PLAYED" value="Utoljára játszott"/>
+  <string name="ALL GAMES" value="Összes játék"/>
+
+  <!-- Egyéb -->
+  <string name="NOW PLAYING" value="Most játszol"/>
+  <string name="PRESS START" value="Nyomd meg a START gombot"/>
+  <string name="LOADING" value="Betöltés..."/>
+  <string name="SAVING" value="Mentés..."/>
+</translations>
