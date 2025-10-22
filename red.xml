@@ -18,23 +18,23 @@ version         1.9
    <feature supported="carousel">
    <view name="system">
       <image name="background" extra="true">            
-         <path>./_inc/images/red/background.png</path>
+         <path>./_inc/images/white/background.png</path>
       </image>  
       <image name="background_bottom" extra="true">               
-         <path>./_inc/images/red/background_bottom.png</path>
+         <path>./_inc/images/white/background_bottom.png</path>
       </image>                               
     </view>
     </feature>
    
     <view name="basic">
       <image name="background" extra="true">       
-         <path>./_inc/images/red/background_basic.png</path>        
+         <path>./_inc/images/white/background_basic.png</path>        
       </image>                
     </view> 
     
     <view name="detailed,video">
       <image name="background" extra="true">       
-         <path>./_inc/images/red/background_video.png</path>        
+         <path>./_inc/images/white/background_video.png</path>        
       </image>                
     </view> 
   
