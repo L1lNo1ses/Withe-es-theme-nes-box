@@ -3,8 +3,5 @@ A lightweight NES-inspired theme for EmulationStation – slightly edited and cu
 
 ### Future i want to add
 
-- support hungarian language 
- 
 - support english language 
-
 - more character exchange
